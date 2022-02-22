@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gabriel-Negreiro-ey
 - 👀 I’m interested in --> Full Cycle
 - 🌱 I’m currently learning --> Agile, DevOps, SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> gabriel.negreiro@br.ey.com
 
 <!---
